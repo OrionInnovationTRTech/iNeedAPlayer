@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872361437530",
+    "project_id": "orion-ineedaplayer",
+    "storage_bucket": "orion-ineedaplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872361437530:android:7497690c547cd48ce26b63",
+        "android_client_info": {
+          "package_name": "com.baranselklnc.ineedaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872361437530-idcd60c47gf5jud0t2thdtj79dr0msqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baranselklnc.ineedaplayer",
+            "certificate_hash": "cfc9495d427f2cddc16b72daef0c934203b6c1b7"
+          }
+        },
+        {
+          "client_id": "872361437530-u1lcbl9a3s336dfn0a4cc20g2lbcbu32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRR4oV2A9igQP7gLMtu2HrJSHi0LFSVrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872361437530-u1lcbl9a3s336dfn0a4cc20g2lbcbu32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
