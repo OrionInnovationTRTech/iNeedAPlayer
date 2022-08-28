@@ -1,4 +1,4 @@
-package com.baranselklnc.ineedaplayer.auth
+package com.baranselklnc.ineedaplayer.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
